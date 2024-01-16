@@ -1,5 +1,5 @@
 # Program to conduct various operations on a list
-items = ['Apple', 'Banana', 'Orange']
+items = ['Apple', 'Banana', 'Orangee']
 print(items)
 
 # Operation a: insertion
